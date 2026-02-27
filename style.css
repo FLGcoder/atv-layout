@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(129, 129, 255);
+    background-color: rgb(6, 6, 245);
 }
 
 .yo{
@@ -8,6 +8,23 @@ body{
     background-color: rgb(255,255,119);
 }
 
+.blu{
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(129, 129, 255);
+}
+
+.yo2{
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(119, 255, 137);
+}
+
 .flex{
     display: flex;
+}
+
+.red{
+    padding-right: 430px;
+    background-color: rgb(177, 66, 51);
 }
